@@ -9,6 +9,9 @@ layout: home
 title: Math 407 Abstract Algebra
 ---
 
+<p align="center"><img src="fig/galois-theory.png"/></p>
+
+
 **Instructor:** Dr. W. Riley Casper
 
 **Email:** wcasper@fullerton.edu
