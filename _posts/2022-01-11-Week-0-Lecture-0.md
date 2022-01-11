@@ -16,5 +16,5 @@ In order to give ourselves the strongest possible start for class, I have prepar
 * Watch the [lecture here (external link)](https://youtu.be/niEtquVUbps) to learn about relations, functions, and equivalence.
 
 ## Additional resources
-* Notes from the video can be found [here (pdf)](/extras/notes/preliminaries-2022-01-11.pdf) 
+* Notes from the video can be found [here (pdf)](/math407spring2022/extras/notes/preliminaries-2022-01-11.pdf) 
 
