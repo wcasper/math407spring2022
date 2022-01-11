@@ -31,7 +31,7 @@ The reading assignments, homework, quizzes, and exam dates can be found here [ex
 
 **First steps**
 
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3087997/modules">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
+Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3252819/modules/7852414">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
 * A reliable internet connection
 * Zoom
 * A webcam
