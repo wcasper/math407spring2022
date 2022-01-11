@@ -52,7 +52,7 @@ minima:
 header_pages:
  - about.md
  - extras/syllabus.md
- - topics-list.md
+ - extras/calendar.md
  - homework-list.md
  - exams-list.md
 
