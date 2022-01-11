@@ -27,7 +27,7 @@ title: Math 407 Abstract Algebra
 **Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
 
 **Course calendar:**
-<iframe src="https://calendar.google.com/calendar/embed?src=4onit5b9otkdfi4imgogbtiefc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+The reading assignments, homework, quizzes, and exam dates can be found here [extras/calendar](extras/calendar)
 
 **First steps**
 
