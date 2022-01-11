@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Math 407!"
-date:   2021-08-18 
 ---
 Welcome to Math 407!  In this class, we will learn the fundamentals of abstract algebra: groups, rings, fields, and Galois theory.
 
