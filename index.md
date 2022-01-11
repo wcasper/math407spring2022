@@ -26,6 +26,9 @@ title: Math 407 Abstract Algebra
 
 **Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
 
+**Course calendar:**
+<iframe src="https://calendar.google.com/calendar/embed?src=4onit5b9otkdfi4imgogbtiefc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 **First steps**
 
 Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3087997/modules">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
