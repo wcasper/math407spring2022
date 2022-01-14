@@ -25,7 +25,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 * (B) Write down a multiplication table for the set of matrices in (A).
 * (C) Show that the set of matrices in (A) is a group.  Is this group commutative or noncommutative?  Prove it.
 
-**Problem 3:** Suppose that $$G\subseteq \mathbb R^3$$ is a group with binary operation definedy in terms of the cross product by
+**Problem 3:** Suppose that $$G\subseteq \mathbb R^3$$ is a group with binary operation defined in terms of the cross product by
 
 $$\vec u\ast\vec v = \vec u\times\vec v$$
 
