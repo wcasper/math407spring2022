@@ -20,7 +20,7 @@ title: Math 407 Abstract Algebra
 
 **Office hours:** TO BE ANNOUNCED and by appointment
 
-**Zoom number for class/office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/81960584642?pwd=N1J6Y05pd3h5KzBtNjE4anloSmRPQT09">81960584642</a>
+**Zoom number for class/office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/89637316249?pwd=VlFvcWhWRDVxdHpsWnVJTkMwTFMvQT09">89637316249</a>
 
 **Passcode:** 112358
 
