@@ -13,13 +13,17 @@ permalink: /extras/syllabus
 
 **Office hourse:** Tuesdays and Wednesdays 3-4PM.  Additional office hours are always available by request.
 
-**Course website:** we will use Canvas website (Spring 2021 MATH 407-1 18421), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Zoom room:**  Some lectures and office hours will take place over Zoom using the room number [89637316249](https://fullerton.zoom.us/j/89637316249?pwd=VlFvcWhWRDVxdHpsWnVJTkMwTFMvQT09)
+
+**Zoom password:** 112358
+
+**Course website:** we will use Canvas website (Spring 2022 MATH 407-1 18421), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2022">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course meeting information
 * Section: 01
 * Course ID: 18421
 * Time: TTh 4:00PM-5:15PM
-* Meeting Dates: 01/23/2021-05/14/2021
+* Meeting Dates: 01/23/2022-05/14/2022
 * Location: online live synchronous lecture on Zoom
 
 ## Course catalog description
