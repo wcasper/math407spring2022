@@ -92,16 +92,15 @@ You will be expected to work in groups on in-class assignments. Be respectful, a
 
 You may also be asked to post in the Discussion Board. Before doing so, review the Forum Rules on our Canvas course site.
 
-
 **Assigned Readings**
 You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
 
 **Homework**
-Homework assignments will feature both computational and analytic components.  For the former, the MATLAB code, all image files, any required screenshots, and any necessary written solutions for each assignment will need to be submitted through the course website on Canvas.
-For the latter, you will need to provide a written solution which will be uploaded with any relevant code as a PDF document.  Three possible ways of accomplishing this include
+For homework, you will need to provide a written solution which will be uploaded with any relevant code as a PDF document.  Three possible ways of accomplishing this include
 * typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
 * writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
 * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
+Homework will also involve some online Canvas quizzes that will help you assess your understanding of different topics.  These will not have a time limit and can be done at home, but should be completed individually.
 
 ## Exams
 Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
