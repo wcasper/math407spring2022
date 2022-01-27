@@ -17,13 +17,13 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 * (A) What is the identity element of this group?
 * (B) Give a formula for the inverse of an element $$k$$ of this group.
-* (C) Is this group commutative or noncommutative?  Prove it.
+* (C) Is this group abelian or nonabelian?  Prove it.
 
 **Problem 2:** Let $$\mathcal{S} = [-1,1]\times[-1,1]$$ be the unit square in $$\mathbb R^2$$.  A **symmetry of the square** is an invertible linear transformation $$T:\mathbb R^2\rightarrow\mathbb R^2$$ which maps vertices of $$\mathcal S$$ to vertices of $$\mathcal S$$.
 
 * (A) Write down all the symmetries of the square using $$2\times 2$$ matrices.  How many are there?  
 * (B) Write down a multiplication table for the set of matrices in (A).
-* (C) Show that the set of matrices in (A) is a group.  Is this group commutative or noncommutative?  Prove it.
+* (C) Show that the set of matrices in (A) is a group.  Is this group abelian or nonabelian?  Prove it.
 
 **Problem 3:** Suppose that $$G\subseteq \mathbb R^3$$ is a group with binary operation defined in terms of the cross product by
 
