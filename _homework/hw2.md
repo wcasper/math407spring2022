@@ -49,7 +49,7 @@ Recall that an (undirected) **graph** $$G=(V,E)$$ is a set $$V$$ of **vertices**
 
 Pictorially, we can represent a graph as a collection of black circles representing the vertices, connected in between by lines representing the edges. For example.
 
-<p align="center"><img src="fig/graph.png"/></p>
+<p align="center" ><img src="fig/graph.png" style="width:200px; height:auto"/></p>
 
 An **automorphism** of the graph $$G=(V,E)$$ is a bijection $$f: V\rightarrow V$$ satisfying $$(f(v_1),f(v_2))\in E$$ for all edges $$(v_1,v_2)\in E$$.  Picture-wise, this is a map that sends black circles to other black circles, such that circles that were connected together before remain so.
 
