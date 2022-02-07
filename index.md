@@ -18,7 +18,7 @@ title: Math 407 Abstract Algebra
 
 **Course meetings:** Tuesday and Thursday 4:00PM-5:15PM
 
-**Office hours:** TO BE ANNOUNCED and by appointment
+**Office hours:** Tuesday and Thursday 3-4PM and by appointment
 
 **Zoom number for class/office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/89637316249?pwd=VlFvcWhWRDVxdHpsWnVJTkMwTFMvQT09">89637316249</a>
 
