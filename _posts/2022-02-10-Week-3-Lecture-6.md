@@ -14,6 +14,11 @@ Notes and highlights from lecture
 
 * Read Section 7 and 8
 
+## Announcements:
+
+* Exam 1 pushed back to Feb. 22
+* Practice Exam 1 coming soon!
+
 ## Important Definitions
 * Important definitions: generators, Cayley digraph, group homomorphism, image, kernel, transposition, sign and parity of a permutation
 
