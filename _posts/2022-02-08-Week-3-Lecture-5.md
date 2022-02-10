@@ -20,3 +20,5 @@ Notes and highlights from lecture
 
 ## Additional resources
 
+* <a target="_parent" href="https://wcasper.github.io/math407spring2022/extras/notes/lecture5-2022-02-08.pdf">lecture notes (pdf)</a>
+
