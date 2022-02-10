@@ -111,7 +111,7 @@ If you have an accommodation from Disability Support Services (such as time-and-
 There will be three midterm exams, each lasting 1 hour.
 Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time in our Zoom meeting on the following dates:
-* Thursday, Feb 17, 2022
+* Thursday, Feb 22, 2022
 * Thursday, March 24, 2022
 * Thursday, April 28, 2022
 
