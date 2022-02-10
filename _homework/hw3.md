@@ -27,7 +27,7 @@ Suppose that $$H\leq G$$ and $$K\leq G$$ are subgroups of $$G$$.
 
 **Problem 3:**
 
-The symmetries of a regular tetrahedron are described by the **alternating group** $$A_4$$.
+The rotational symmetries of a regular tetrahedron are described by the **alternating group** $$A_4$$.
 It is the subgroup of $$S_4$$ defined by the *even* permutations.
 
 $$A_4 = \{e, (12)(34), (13)(24), (14)(23), (123), (124), (132), (134), (142), (143), (234), (243)\}$$
