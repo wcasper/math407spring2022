@@ -15,7 +15,7 @@ Notes and highlights from lecture
 * Read Section 9
 
 ## Important Definitions
-* Important definitions: direct product of gruops, direct sum of groups, decomposable, indecomposable, invariant factors
+* Important definitions: direct product of groups, direct sum of groups, decomposable, indecomposable, invariant factors
 
 ## Additional resources
 
