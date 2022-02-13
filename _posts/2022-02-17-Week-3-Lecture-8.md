@@ -7,15 +7,14 @@ Notes and highlights from lecture
 
 ## Today's Objectives
 
-* A beastiary of groups
-* Finitely generated abelian groups
+* Cosets and Lagrange's theorem 
 
 ## Reading assignments
 
 * Read Section 9
 
 ## Important Definitions
-* Important definitions: direct product of gruops, direct sum of groups, decomposable, indecomposable, invariant factors
+* Important definitions: left and right cosets, index of a subgroup
 
 ## Additional resources
 
