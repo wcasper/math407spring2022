@@ -18,5 +18,4 @@ Notes and highlights from lecture
 
 ## Additional resources
 
-* coming soon
-
+* <a target="_parent" href="https://wcasper.github.io/math407spring2022/extras/notes/lecture8-2022-02-17.pdf">lecture notes (pdf)</a>
