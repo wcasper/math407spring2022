@@ -8,4 +8,5 @@ permalink: /homework/solutions
 
 * [Solutions to Homework 1 (pdf)](hw1-solutions.pdf)
 * [Solutions to Homework 2 (pdf)](hw2-solutions.pdf)
+* [Solutions to Homework 3 (pdf)](hw3-solutions.pdf)
 
