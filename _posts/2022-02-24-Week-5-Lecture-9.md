@@ -14,7 +14,7 @@ Notes and highlights from lecture
 * Read Section 12 and 13
 
 ## Important Definitions
-* Important definitions: normal subgroup, quotient group, first isomorphism theorem
+* Important definitions: normal subgroup, quotient group, first isomorphism theorem, simple group, center, commutator
 
 ## Additional resources
 
