@@ -11,7 +11,7 @@ Notes and highlights from lecture
 
 ## Reading assignments
 
-* Read Section 11
+* Read Section 12 and 13
 
 ## Important Definitions
 * Important definitions: normal subgroup, quotient group, first isomorphism theorem
