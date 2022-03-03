@@ -54,7 +54,8 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 ## Grading
 ### Grading scheme
 
-* Homework: 25%
+* Homework: 15%
+* Assessments: 10%
 * Midterm Exams: 3 at 15% each
 * Final Exam: 30%
 
