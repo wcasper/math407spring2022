@@ -25,7 +25,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 **Problem 4:** Let $$G$$ be a finite abelian group.  Show that if $$G$$ is not cyclic, then $$G$$ contains a subgroup isomorphic to $$\mathbb Z_p\times \mathbb Z_p$$ for some prime number $$p>1$$.
 
-**Problem 5:** Show that if $$G$$, $$H$$ and $$K$$ are groups and $$G\times K\cong H\times K$$, then $$G\cong H$$
+**Problem 5:** Show that if $$G$$, $$H$$ and $$K$$ are finite groups and $$G\times K\cong H\times K$$, then $$G\cong H$$
 
 **Problem 6:** For each of the following, give an example or explain why no example exists.
 * A subgroup $$H$$ of an infinite group $$G$$ where $$H$$ has finitely many left cosets
