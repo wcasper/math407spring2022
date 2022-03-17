@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exam 2
-permalink: /exams/exam2
+title: Practice Exam 2 Version 2
+permalink: /exams/practice-exam2-v2
 ---
 
 Solve each of the following problems.
