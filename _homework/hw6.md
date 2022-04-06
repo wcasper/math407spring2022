@@ -55,7 +55,9 @@ $$\Omega = \{\sum_{j=0}^m a_j(x) D^j: m\geq 0,\ \ a_0(x),\dots, a_m(x)\in \mathb
 This is a ring with the obvious addition,  and with multiplication defined by
 
 $$\left(\sum_{j=0}^m a_j(x)D^j\right) \left(\sum_{k=0}^n b_k(x)D^k\right)
-= \sum_{j=0}^m\sum_{k=0}^n\sum_{\ell=0}^j \binom{j}{\ell} a_j(x)b_j^{(i)}(x)D^{j+k-i}.$$
+= \sum_{j=0}^m\sum_{k=0}^n\sum_{\ell=0}^j \binom{j}{\ell} a_j(x)b_j^{(\ell)}(x)D^{j+k-i}.$$
+
+where here $$f^{(\ell)}(x)$$ is the $$\ell$$'th derivative of $$f(x)$$.
 
 * (a) Show that $$\Omega$$ is not commutative
 * (b) Prove that the $\Omega$ is simple, ie. that the only two-sided right ideals of $$\Omega$$ are $$0$$ and $$\Omega$$
