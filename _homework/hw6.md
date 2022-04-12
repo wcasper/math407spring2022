@@ -36,7 +36,7 @@ In particular, this shows that $$F$$ is a ring.
 
 * (b) Prove that $$F$$ is a field.
 
-* (c) Prove that $$F$$ is isomorphic to $$R/I$$ for $$R = \mathbb Q[x]$$ and $$I = \langle x^2-d\rangle$$
+* (c) Assume that $$d$$ is not a perfect square.  Prove that $$F$$ is isomorphic to $$R/I$$ for $$R = \mathbb Q[x]$$ and $$I = \langle x^2-d\rangle$$
 
 **Problem 3:**
 
