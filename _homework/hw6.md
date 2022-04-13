@@ -52,12 +52,21 @@ The **Weyl algebra** in one variable is the set of all linear differential opera
 
 $$\Omega = \{\sum_{j=0}^m a_j(x) D^j: m\geq 0,\ \ a_0(x),\dots, a_m(x)\in \mathbb R[x]\}.$$
 
-This is a ring with the obvious addition,  and with multiplication defined by
+This is a ring with the obvious addition, and with multiplication satisfying
+
+$$Da(x) = a(x)D + a'(x),\quad D^2 a(x) = a(x)D^2 + 2a'(x)D + a''(x)$$
+
+and more generally 
+
+$$D^n a(x) = a(x)D^n + na'(x)D^{n-1} + \binom{n}{2}a''(x)D^{n-2} + \dots + \binom{n}{n-1}a^{(n-1)}(x)D + a^{(n)}(x).$$
+
+where here $$f^{(\ell)}(x)$$ is the $$\ell$$'th derivative of $$f(x)$$.
+
+In complete generality, 
 
 $$\left(\sum_{j=0}^m a_j(x)D^j\right) \left(\sum_{k=0}^n b_k(x)D^k\right)
 = \sum_{j=0}^m\sum_{k=0}^n\sum_{\ell=0}^j \binom{j}{\ell} a_j(x)b_j^{(\ell)}(x)D^{j+k-i}.$$
 
-where here $$f^{(\ell)}(x)$$ is the $$\ell$$'th derivative of $$f(x)$$.
 
 So for example
 
