@@ -59,6 +59,10 @@ $$\left(\sum_{j=0}^m a_j(x)D^j\right) \left(\sum_{k=0}^n b_k(x)D^k\right)
 
 where here $$f^{(\ell)}(x)$$ is the $$\ell$$'th derivative of $$f(x)$$.
 
+So for example
+
+$$(D + x)(xD + 3x + 1) = xD^2 + (x^2 + 3x + 2)D + 3x^2 + x + 3.$$
+
 * (a) Show that $$\Omega$$ is not commutative
 * (b) Prove that the $\Omega$ is simple, ie. that the only two-sided right ideals of $$\Omega$$ are $$0$$ and $$\Omega$$
 
