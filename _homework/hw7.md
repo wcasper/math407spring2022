@@ -17,8 +17,8 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 For each of the following, find the minimal polynomial over $$\mathbb Q$$ of the specified element.
 
-* (a) \sqrt{3-\sqrt{6}}
-* (b) \sqrt{2} + i
+* (a) $$\sqrt{3-\sqrt{6}}$$
+* (b) $$\sqrt{2} + i$$
 
 **Problem 2:**
 
