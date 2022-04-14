@@ -73,6 +73,6 @@ So for example
 $$(D + x)(xD + 3x + 1) = xD^2 + (x^2 + 3x + 2)D + 3x^2 + x + 3.$$
 
 * (a) Show that $$\Omega$$ is not commutative
-* (b) Prove that the $\Omega$ is simple, ie. that the only two-sided right ideals of $$\Omega$$ are $$0$$ and $$\Omega$$
+* (b) Prove that the $$\Omega$$ is simple, ie. that the only two-sided right ideals of $$\Omega$$ are $$0$$ and $$\Omega$$
 
 
