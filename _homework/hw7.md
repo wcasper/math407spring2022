@@ -26,7 +26,7 @@ For each of the following, find the degree and a basis for the field extension
 
 * (a) $$\mathbb Q(\sqrt{2})$$ over $$\mathbb Q$$
 * (b) $$\mathbb Q(\sqrt{2},\sqrt{3},\sqrt{18})$$ over $$\mathbb Q$$
-* (c) $$\mathbb Q(\sqrt{2},\sqrt{3},\sqrt{18})$$ over $$\mathbb Q$$
+* (c) $$\mathbb Q(\sqrt{2},\sqrt{3},\sqrt{5})$$ over $$\mathbb Q$$
 * (d) $$\mathbb Q(\sqrt{2},\sqrt{6})$$ over $$\mathbb Q(\sqrt{3})$$
 * (e) $$\mathbb Q(\sqrt{2},\sqrt{6}+\sqrt{10})$$ over $$\mathbb Q(\sqrt{3}+\sqrt{5})$$
 
