@@ -39,5 +39,26 @@ Let $$K$$ be the splitting field of $$x^3-5$$ over $$\mathbb Q$$.
 * (c) Determine what group we have seen before that $$\text{Aut}(K)$$ is isomorphic to
 * (d) Draw a subgroup diagram for $$\text{Aut}(K)$$ and subfield diagram of $$K$$ and indicate what subfields correspond to what subgroups under Galois correspondence.
 
+**Problem 4:**
+
+Consider an irreducible polynomial $$f(x)\in \mathbb Q[x]$$ given by
+
+$$f(x) = a_0 + a_1x + a_2x^2 + \dots + a_nx^n.$$
+
+The **discriminant** of $$f(x)$$ is defined to be
+
+$$\Delta_f = a_n^{2n}\prod_{j\neq k} (\lambda_j-\lambda_k)^2$$
+
+where here $$\lambda_j-\lambda_k$$ are the roots of $$f(x)$$.  In this problem, we will explore the discriminant in the special case that $$n=3$$ and
+
+$$f(x) = ax^3 + bx^2 + cx + d.$$
+
+* (a) Prove that the Galois group $$G$$ of the splitting field of $$f(x)$$ is isomorphic to either $$\mathbb Z_3$$ or $$S_3$$.
+
+* (b) Prove that $$\Delta_f$$ is rational
+
+* (c) Prove that $$\Delta_f$$ is a perfect square  (ie. it's square root is rational) if and only if $$G$$ is isomorphic to $$\mathbb Z_3$$
+
+
 
 
