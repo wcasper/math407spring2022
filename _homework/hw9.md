@@ -47,7 +47,7 @@ $$f(x) = a_0 + a_1x + a_2x^2 + \dots + a_nx^n.$$
 
 The **discriminant** of $$f(x)$$ is defined to be
 
-$$\Delta_f = a_n^{2n}\prod_{j\neq k} (\lambda_j-\lambda_k)^2$$
+$$\Delta_f = a_n^{2n}\prod_{j< k} (\lambda_j-\lambda_k)^2$$
 
 where here $$\lambda_j-\lambda_k$$ are the roots of $$f(x)$$.  In this problem, we will explore the discriminant in the special case that $$n=3$$ and
 
